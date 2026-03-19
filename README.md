@@ -12,7 +12,7 @@ Simple samples to start serving with Shelby
 1. Clone to local filesystem
 1. Run `npm install` or equivalent
 1. Run `npm run build` or equivalent
-mona
+jennd
 ## 🛠️ Setup
 Before working with the code in this repo, ensure that you've completed all of the steps in the [Shelby CLI Getting Started](https://docs.shelby.xyz/tools/cli) guide. This will give you access to the `shelby` command and simplify the steps described below.
 

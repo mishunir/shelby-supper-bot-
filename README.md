@@ -5,7 +5,7 @@ sukant
 ## 📋 System Requirements
 * Node v22 or later
 * Linux or MacOS
-456lkj
+uyttfg
 ## 📦 Installation
 **NOTE:** This repo requires the CLI for both [Shelby](https://docs.shelby.xyz/tools/cli) and [Aptos](https://aptos.dev/build/cli). Install these first if you haven't already.
 1. Fork this repository
